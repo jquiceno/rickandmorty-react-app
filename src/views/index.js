@@ -1,3 +1,3 @@
-import home from './Home'
+import characters from './Characters'
 
-export const Home = home
+export const Characters = characters
